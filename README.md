@@ -1,7 +1,7 @@
 # aoc16-d7
 Advent of Code 2016 Day 7
 
-Puzle available from http://adventofcode.com/2016/day/7#
+Puzzle available from http://adventofcode.com/2016/day/7
 
 --- Day 7: Internet Protocol Version 7 ---
 
